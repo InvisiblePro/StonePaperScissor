@@ -1,5 +1,7 @@
 # Stone Paper Scissor
 
+[![](https://img.shields.io/badge/Game%3A-StonePaperScissor-red?style=for-the-badge)](https://github.com/InvisiblePro/StonePaperScissor)
+
 ## This is Stone Paper Scissor Game made with Python.
 
 Download and Run the `main.exe` file to play the game
