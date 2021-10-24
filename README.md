@@ -4,12 +4,5 @@
 
 Download and Run the `main.exe` file to play the game
 
-
-
-### Created by [InvisiblePro](https://github.com/InvisiblePro)
-
-
-#### Contributers :-
-∘ [@Idhant-6](https://github.com/Idhant-6)
-
-
+#### Created by [InvisblePro](https://github.com/InvisiblePro) 
+[![](https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github)](https://github.com/InvisiblePro)  [![](https://img.shields.io/badge/Contributer-@Idhant-blue?logo=github)](https://github.com/Idhant-6)
